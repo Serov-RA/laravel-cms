@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/bootstrap.bundle.min.js": "/js/bootstrap.bundle.min.js",
+    "/js/admin/jquery.min.js": "/js/admin/jquery.min.js",
+    "/js/admin/bootstrap3.bundle.min.js": "/js/admin/bootstrap3.bundle.min.js",
+    "/js/admin/fastclick.js": "/js/admin/fastclick.js",
+    "/js/admin/nprogress.js": "/js/admin/nprogress.js",
+    "/js/admin/custom.min.js": "/js/admin/custom.min.js",
+    "/css/admin/custom.min.css": "/css/admin/custom.min.css",
+    "/css/admin/nprogress.css": "/css/admin/nprogress.css",
+    "/css/admin/font-awesome.min.css": "/css/admin/font-awesome.min.css",
+    "/css/admin/bootstrap3.min.css": "/css/admin/bootstrap3.min.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css"
+}
